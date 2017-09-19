@@ -1,5 +1,5 @@
-author = 'Tristan'
-
-glitch = "matrix"
-
-de_maatrix = "glitch"
+score = eval(input("Geef je score: "))
+if(score > 15):
+    print("geslaagd")
+else:
+    print("loser.")

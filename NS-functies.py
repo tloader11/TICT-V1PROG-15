@@ -8,7 +8,6 @@ def standaardprijs(afstandKM):
         prijs = 0                               #negative number. ignore.
     return prijs
 
-
 def ritprijs(leeftijd, weekendrit, afstandKM):
     if weekendrit:
         if leeftijd < 12 or leeftijd >= 65:
@@ -22,7 +21,6 @@ def ritprijs(leeftijd, weekendrit, afstandKM):
             prijs = standaardprijs(afstandKM)
 
     return '€ ' + str(round(prijs,2))
-
 
 print(ritprijs(eval(input("Leeftijd: ")), eval(input("Weekendrit? ")), eval(input("Afstand in KM: "))))
 
