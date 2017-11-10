@@ -1,66 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1124054e-54c3-4f81-aef1-8d006b7f6e04" name="Default" comment="v1">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 10/10_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 10/10_1_dict.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 10/xml_stationslijst.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 10/xml_stationslijst.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 5/5_5.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 6/6_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 6/6_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 6/6_3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 6/6_4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 6/6_5.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 6/6_bagagekluizen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 6/kluizen_config.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 7/7_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 7/7_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 7/7_3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 7/7_4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 7/7_4_ticker.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 7/7_5.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 8/8_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 8/8_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 8/8_3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 9/9_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 9/9_2_inloggers.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 9/9_3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 9/9_3_gamers.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 9/9_4.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 9/9_4_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Les 9/9_4_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bullshitery.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1_1.py" afterPath="$PROJECT_DIR$/Les 1/1_1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1_2.py" afterPath="$PROJECT_DIR$/Les 1/1_2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1_3.py" afterPath="$PROJECT_DIR$/Les 1/1_3.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1_4.py" afterPath="$PROJECT_DIR$/Les 1/1_4.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1_5.py" afterPath="$PROJECT_DIR$/Les 1/1_5.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1_6.py" afterPath="$PROJECT_DIR$/Les 1/1_6.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2_1.py" afterPath="$PROJECT_DIR$/Les 2/2_1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2_2.py" afterPath="$PROJECT_DIR$/Les 2/2_2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2_3.py" afterPath="$PROJECT_DIR$/Les 2/2_3.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2_4.py" afterPath="$PROJECT_DIR$/Les 2/2_4.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3_1.py" afterPath="$PROJECT_DIR$/Les 3/3_1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3_2.py" afterPath="$PROJECT_DIR$/Les 3/3_2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3_3.py" afterPath="$PROJECT_DIR$/Les 3/3_3.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3_4.py" afterPath="$PROJECT_DIR$/Les 3/3_4.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3_5.py" afterPath="$PROJECT_DIR$/Les 3/3_5.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3_6.py" afterPath="$PROJECT_DIR$/Les 3/3_6.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/4_1.py" afterPath="$PROJECT_DIR$/Les 4/4_1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/4_2.py" afterPath="$PROJECT_DIR$/Les 4/4_2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/4_3.py" afterPath="$PROJECT_DIR$/Les 4/4_3.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/4_4.py" afterPath="$PROJECT_DIR$/Les 4/4_4.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/4_5.py" afterPath="$PROJECT_DIR$/Les 4/4_5.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/4_6.py" afterPath="$PROJECT_DIR$/Les 4/4_6.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/5_1.py" afterPath="$PROJECT_DIR$/Les 5/5_1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/5_2.py" afterPath="$PROJECT_DIR$/Les 5/5_2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/5_3.py" afterPath="$PROJECT_DIR$/Les 5/5_3.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/5_4.py" afterPath="$PROJECT_DIR$/Les 5/5_4.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/9_1.py" afterPath="$PROJECT_DIR$/Les 9/9_1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Kaartnummers.txt" afterPath="$PROJECT_DIR$/Les 5/Kaartnummers.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NS-functies.py" afterPath="$PROJECT_DIR$/Les 4/NS-functies.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hardlopers.txt" afterPath="$PROJECT_DIR$/Les 5/hardlopers.txt" />
+    <list default="true" id="1124054e-54c3-4f81-aef1-8d006b7f6e04" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new_test.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -534,7 +476,9 @@
     <MESSAGE value="v0.0.2" />
     <MESSAGE value="Dat kon korter :p" />
     <MESSAGE value="v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1" />
+    <MESSAGE value="Prima werk om half 4" />
+    <MESSAGE value="~~~" />
+    <option name="LAST_COMMIT_MESSAGE" value="~~~" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
