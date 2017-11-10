@@ -1,6 +1,4 @@
 import datetime
-
-
 while True:
     file = open('hardlopers.txt', 'a') #opens for apending, creates file if not exist.
     naam = input("Naam vd hardloper: ")
